@@ -7,7 +7,7 @@
 
 ft_printf is a project aimed at using variadic functions to implement the C function `printf()`.
 
-For more projects related to 42cursus, please visit the hive-42cursus repository.
+For more projects related to 42cursus, please visit the [hive-42cursus](https://github.com/wengcychan/hive-42cursus.git) repository.
 
 ## Introduction
 
